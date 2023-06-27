@@ -1,10 +1,10 @@
-****UAS PAA2****
+#****UAS PAA2****
 
-***Daniel Irwansyah_F55121075***
+#***Daniel Irwansyah_F55121075***
 
-**Hasil analysis algorithm**
+#**Hasil analysis algorithm**
 
-**bubble sort and insertion sort**
+#**bubble sort and insertion sort**
 
 ***a. Worst case:***
 
@@ -25,7 +25,7 @@
 -Insertion Sort: Pada average case, Insertion Sort memiliki kompleksitas waktu O(n^2), dimana n adalah jumlah elemen dalam array yang diurutkan. Pada kode ini, jika array memiliki ukuran n, Insertion Sort akan melakukan rata-rata (n^2 - n)/4 pergeseran elemen. Jumlah pergeseran ini dapat diperoleh dengan menjumlahkan kemungkinan pergeseran dalam setiap iterasi inner loop dan kemudian membaginya dengan jumlah iterasi inner loop. Sehingga waktu komputasi Insertion Sort pada average case mencapai O(n^2).
 
 
-**TSP dan Djikstra**
+#**TSP dan Djikstra**
 
 ***a. Worst Case:***
 
